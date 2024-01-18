@@ -2,7 +2,15 @@
 [LinkedIn](https://www.linkedin.com/in/elena-luchina/), [GitHub](https://github.com/le-luchina/), [E-Mail](mailto:elena.luchina15@gmail.com)
 
 ### Summary / about me
-My first career choice was Trade Marketing and I enjoyed several interesting assignments while working at Procter & Gamble, which praises its work as a data-driven company. I was responsible for a 0.8M $ trade marketing budget a distributed team of 20 med reps, and marketing contracts with top national pharmacies and retailers. While my career progressed, I became increasingly interested in the data part of the job and realized that I exhausted my capabilities in Marketing and Sales and wanted to do this data part-full time. So I took a leap of faith and two years ago I started my education in that field, first with online courses in ML from Stanford and IBM. And later, I decided to commit to a 2-year graduate-level program in Statistics and Data Science at MIT.
+My first career choice was Trade Marketing and I enjoyed several interesting assignments while working at Procter & Gamble, which praises its work as a data-driven company. 
+
+I was responsible for a 0.8M $ trade marketing budget, a distributed team of 20 med reps, and marketing contracts with top national pharmacies and retailers. 
+
+While my career progressed, I became increasingly interested in the data part of the job and realized that I exhausted my capabilities in Marketing and Sales and wanted to do this data part-full time. 
+
+So I took a leap of faith and two years ago I started my education in that field, first with online courses in ML from Stanford and IBM. And later, I decided to commit to a 2-year graduate-level program in Statistics and Data Science at MIT.
+
+
 While halfway through the MIT program I decided that it was time to put all this knowledge to practice, so now I am in an apprenticeship at EPAM.
 
 
