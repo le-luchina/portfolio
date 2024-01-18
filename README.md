@@ -27,7 +27,7 @@ While halfway through the MIT program I decided that it was time to put all this
 - B.S., Economics | St-Petersburg Uni of Economics and Finance (_May 2014_)
 
 ### Certificates
-- [Machine Learning Professional Certificate](https://coursera.org/share/4c5b028289f0f5a0cd6f75a118cfc8cd/) | IBM (_May 2023_)
+- [Machine Learning Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BJNENZMA7VZ8/) | IBM (_May 2023_)
 - [SQL for Data Science](https://www.credly.com/badges/57b9d6d4-8682-48e8-a54e-9b3a08916fe5/public_url/) | IBM (_May 2023_)
 - [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/NNVST77B27X2/) | Stanford (_Feb 2023_)
 - [SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/GBHHUCL6ZX32/) | UC Davis (_Dec 2022_)
