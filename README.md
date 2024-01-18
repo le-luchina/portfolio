@@ -16,7 +16,9 @@ While halfway through the MIT program I decided that it was time to put all this
 
 ### Skill Profile
 **Coding\Deployment:** Python, Git, Docker, MLFlow
+
 **Data wrangling:** SQLite, MySQL, NumPy, Pandas, Matplotlib, Seaborn, Plotly
+
 **ML/DL:** Scikit-Learn, SciPy, TensorFlow/Keras, PyTorch/Lightning, OpenCV, Pillow
 
 ### Education
